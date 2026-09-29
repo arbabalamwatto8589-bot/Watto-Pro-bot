@@ -1,0 +1,6 @@
+{
+  "name": "WATTOPro — Trading Signal Bot",
+  "description": "Professional forex trading signal platform with real-time indicator analysis, live candlestick charts, BUY/SELL signals, and technical market insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
